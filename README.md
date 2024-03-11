@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+My+Profile;My+Name+is+Luiz+Matheus;I'm+18+years+old;I'm+From+Paraíba,Brazil;I+study+Computer+Science)](https://git.io/typing-svg)
 
 [![devluizmatheus GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![devluizmatheusoleite GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![devluizmatheusoleite GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizmatheus&theme=dark&layout=compact)
 
 ## 🔭 I am currently working and studying
