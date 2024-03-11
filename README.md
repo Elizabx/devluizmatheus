@@ -4,6 +4,8 @@
 
 ![devluizmatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizmatheus&show_icons=true&theme=transparent&text_color=FFFFFF)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&text_color=FFFFFF&theme=transparent)
+
 ## 🔭 I am currently working and studying
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,mysql,)](https://skillicons.dev)
 
