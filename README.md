@@ -1,4 +1,4 @@
-![img]([https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif](https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif])
+![img]([https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif])
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&pause=1000&color=F7F7F7&center=True&random=false&width=435&lines=Hello+Dev's,+Welcome+My+Profile;My+Name+is+Luiz+Matheus;I'm+18+years+old;I'm+From+Paraíba,Brazil;I+study+Computer+Science)](https://git.io/typing-svg)
 
